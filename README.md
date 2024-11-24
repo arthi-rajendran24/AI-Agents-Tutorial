@@ -71,7 +71,7 @@ venv\Scripts\activate     # Windows
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ai-agents-series.git
+git clone https://github.com/arthi-rajendran24/AI-Agents-Tutorial.git
 cd AI-Agents-Tutorial
 ```
 
