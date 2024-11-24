@@ -19,28 +19,13 @@ This series takes you from basic concepts to advanced implementations of AI agen
 ## 📚 Series Overview
 
 ### Week 1: Foundations
-1. [Introduction to AI Agents](week1/day1/)
-   - Basic concepts and setup
-   - Your first agent implementation
-2. [Agent Architectures](week1/day2/)
-   - Rule-based systems
-   - Utility-based decisions
-3. [Agent Communication](week1/day3/)
-   - Message passing
-   - Communication protocols
-4. [Environment Design](week1/day4/)
-   - Grid worlds
-   - State spaces
+1. [Introduction to AI Agents](https://arthirajendran.medium.com/ai-agents-101-your-first-step-into-autonomous-systems-41fa2f7b7012)
+2. [Agent Architectures](https://medium.com/r/?url=https%3A%2F%2Farthirajendran.medium.com%2Fbe810335e168)
+3. [Agent Communication](https://medium.com/r/?url=https%3A%2F%2Farthirajendran.medium.com%2F7ee28161a308)
+4. [Environment Design](https://medium.com/r/?url=https%3A%2F%2Farthirajendran.medium.com%2Fb132bb6ea539)
 5. [Decision Making](week1/day5/)
-   - Rule systems
-   - Pattern recognition
 6. [Multi-Agent Basics](week1/day6/)
-   - Agent coordination
-   - Basic interactions
 7. [Week 1 Project](week1/day7/)
-   - Complete agent system
-   - Integration examples
-
 ### Week 2: Modern Frameworks
 8. [LangChain Basics](week2/day8/)
 9. [Advanced LangChain](week2/day9/)
@@ -87,45 +72,10 @@ venv\Scripts\activate     # Windows
 ```bash
 # Clone the repository
 git clone https://github.com/yourusername/ai-agents-series.git
-cd ai-agents-series
-
-# Install dependencies
-pip install -r requirements.txt
+cd AI-Agents-Tutorial
 ```
 
-### Running the Examples
-Each day's code is contained in its own directory with a complete example:
 
-```bash
-# Example: Running day 1 code
-cd week1/day1
-python main.py
-
-# Running tests
-python -m pytest tests/
-```
-
-## 📂 Repository Structure
-
-```
-ai-agents-series/
-├── week1/
-│   ├── day1/
-│   │   ├── main.py
-│   │   ├── agent.py
-│   │   ├── environment.py
-│   │   ├── tests/
-│   │   └── README.md
-│   └── ...
-├── week2/
-├── week3/
-├── week4/
-├── common/
-│   ├── utils.py
-│   └── base_classes.py
-├── requirements.txt
-└── README.md
-```
 
 ## 🛠️ Core Dependencies
 
@@ -135,13 +85,6 @@ ai-agents-series/
 - OpenAI (optional)
 - Gymnasium
 - PyTorch (for advanced examples)
-
-## 📖 Additional Resources
-
-- [Series Blog Posts](https://medium.com/series-link)
-- [Video Tutorials](https://youtube.com/playlist-link)
-- [Community Discord](https://discord.gg/community-link)
-- [Reference Papers](docs/REFERENCES.md)
 
 ## 🤝 Contributing
 
@@ -162,16 +105,6 @@ Each week includes practical projects and challenges:
 - Week 3: Multi-Agent System
 - Week 4: Real-World Application
 
-Find detailed project requirements in each week's directory.
-
-## 🌟 Featured Projects
-
-Here are some outstanding projects built by our community:
-
-- [Trading Agent System](examples/trading-agent/)
-- [Multi-Agent Game](examples/game-agents/)
-- [Research Assistant](examples/research-assistant/)
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -180,13 +113,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - OpenAI for GPT models
 - LangChain community
-- All our contributors and students
+- Ollama
+- Meta's Llama models
 
 ## 📞 Support
 
 - Create an issue for bug reports
-- Join our [Discord](https://discord.gg/community-link) for discussions
-- Check out the [FAQ](docs/FAQ.md)
 
 ## 🗺️ Roadmap
 
@@ -198,8 +130,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/ai-agents-series&type=Date)](https://star-history.com/#yourusername/ai-agents-series&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=arthi-rajendran24/AI-Agents-Tutorial&type=Timeline)](https://star-history.com/#arthi-rajendran24/AI-Agents-Tutorial&Timeline)
 
 ---
 
-Built with ❤️ by [Your Name](https://github.com/yourusername)
+Built with ❤️ by [Arthi Rajendran]((https://github.com/arthi-rajendran24))
