@@ -134,4 +134,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Built with ❤️ by [Arthi Rajendran]((https://github.com/arthi-rajendran24))
+Built with ❤️ by [Arthi Rajendran](https://github.com/arthi-rajendran24)
